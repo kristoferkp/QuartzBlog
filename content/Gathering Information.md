@@ -1,3 +1,9 @@
+---
+title: Gathering Information
+publish: true
+tags:
+---
+
 In this module, we learned how to gather information online.
 - [[OSINT]] 
 - [[Digital Footprint]]

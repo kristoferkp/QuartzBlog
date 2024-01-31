@@ -5,4 +5,4 @@ tags:
 ---
 In this module, we learned the basics of Cybersecurity and Capture The Flag.
 - [[What Is CTF?]]
-- [[What Is Ethical Hacking]
+- [[What Is Ethical Hacking]]
