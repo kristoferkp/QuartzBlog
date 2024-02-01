@@ -1,6 +1,6 @@
 ---
 title: Network Security
-publish: true
+draft: false
 tags:
 ---
 

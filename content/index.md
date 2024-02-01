@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog!
-publish: true
+draft: false
 tags:
 ---
 This is a blog of everything I have learned in JPG's cybersecurity course.

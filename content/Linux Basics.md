@@ -1,6 +1,6 @@
 ---
 title: Linux Basics
-publish: true
+draft: false
 tags:
 ---
 In this module, we learned the basics of Linux.

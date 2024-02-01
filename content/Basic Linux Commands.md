@@ -1,7 +1,7 @@
 ---
 title: Basic Linux Commands
 tags: 
-publish: true
+draft: false
 ---
 
 

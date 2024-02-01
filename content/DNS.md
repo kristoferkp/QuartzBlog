@@ -1,0 +1,1 @@
+Domain Name System is the phonebook of the internet. Converts user readable [[Domain]]s into [[IP Addresses]] to route traffic.

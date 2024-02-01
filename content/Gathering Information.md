@@ -1,6 +1,6 @@
 ---
 title: Gathering Information
-publish: true
+draft: false
 tags:
 ---
 

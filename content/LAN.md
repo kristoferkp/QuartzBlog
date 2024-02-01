@@ -1,0 +1,1 @@
+Local Area Network, all devices under single [[Router]] to connect multiple devices to the internet without needing all devices have a unique [[IP Addresses]].

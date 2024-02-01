@@ -1,0 +1,1 @@
+Wide Area Network, multiple [[Router]]s connected together make the internet.
