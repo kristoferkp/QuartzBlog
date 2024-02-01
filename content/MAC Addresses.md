@@ -1,0 +1,1 @@
+[[OSI model]] layer 2, unique MAC Addresses are given to each device to help with packet routing. Layer 2 [[Switch]]es use only MAC addresses when routing packets.

@@ -1,0 +1,1 @@
+[[OSI model]] layer 3, every public facing [[Router]] has one when connecting to [[WAN]]. Then translates into [[LAN]] IP address.

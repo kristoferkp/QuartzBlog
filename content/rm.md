@@ -1,0 +1,1 @@
+Removes files and folders. Also `rm -rf /`

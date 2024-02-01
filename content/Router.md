@@ -1,0 +1,1 @@
+A device that routes traffic. Based on [[IP Addresses]].

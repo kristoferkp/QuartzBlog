@@ -12,7 +12,7 @@ In this module, we learned about networks and how to secure them.
 - [[DHCP]]
 - [[MAC Addresses]]
 - [[ARP]]
-- [[Network Ports]]
+- [[Network Port]]
 - [[Services in Networking]]
 - [[OSI model]]
 - [[Nmap]]
@@ -24,4 +24,3 @@ In this module, we learned about networks and how to secure them.
 - [[IDS and IPS]]
 - [[Proxy]]
 - [[VPN]]
-- 

