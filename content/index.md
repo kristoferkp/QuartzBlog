@@ -11,3 +11,4 @@ There were 4 learning modules:
 - [[Linux Basics]]
 - [[Gathering Information]]
 - [[Network Security]]
+- [[Cryptography Basics]]
