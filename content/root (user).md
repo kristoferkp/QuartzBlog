@@ -1,0 +1,1 @@
+The most powerful user in [[Linux Users and Groups]]. Has all the permissions. THE [[superuser]] and using [[sudo]] gives the regular user access to [[superuser]].

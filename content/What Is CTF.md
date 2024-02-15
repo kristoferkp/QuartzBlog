@@ -1,0 +1,1 @@
+Capture the Flag (CTF) is an interactive learning experience that immerses participants in cybersecurity. In CTF challenges, participants will be cyber security experts, utilizing diverse techniques to unravel complex security puzzles.

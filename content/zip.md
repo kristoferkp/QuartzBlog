@@ -1,0 +1,1 @@
+Compresses files into a .zip file.

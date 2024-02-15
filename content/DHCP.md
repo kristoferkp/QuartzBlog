@@ -1,0 +1,1 @@
+Service running on the network, probably running on the [[Router]]/[[Firewall]] and gives out [[IP Addresses]] to new devices on the network.

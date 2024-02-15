@@ -20,7 +20,7 @@ In this module, we learned about networks and how to secure them.
 - [[SSH]]
 - [[MySQL]]
 - [[Metasploit]]
-- [[Firewalls]]
+- [[Firewall]]
 - [[IDS and IPS]]
 - [[Proxy]]
 - [[VPN]]

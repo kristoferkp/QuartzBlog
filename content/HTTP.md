@@ -1,0 +1,1 @@
+HTTP, or Hypertext Transfer Protocol, is an application-layer protocol ([[OSI model]]) for transmitting hypermedia documents, such as HTML. It is the foundation of any data exchange on the Web and operates as a request-response protocol in the client-server model.

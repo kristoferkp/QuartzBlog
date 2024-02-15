@@ -1,0 +1,1 @@
+The Server Message Block (SMB) protocol is a network file sharing protocol that allows applications to read, write to files, and request services from server programs in a computer network.

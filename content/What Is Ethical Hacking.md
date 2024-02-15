@@ -1,0 +1,1 @@
+Ethical hacking, also known as white-hat hacking or penetration testing, is the practice of performing security assessments using the same techniques that hackers use, but with proper approvals and authorization from the organization you’re hacking into.

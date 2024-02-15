@@ -1,0 +1,1 @@
+Command Line Interface, or console, is a way to control a machine through text and not a [[GUI]] like most [[Operating System]]s.

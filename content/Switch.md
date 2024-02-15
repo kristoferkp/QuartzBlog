@@ -1,0 +1,1 @@
+A device on the network that connects multiple devices to one device. Essentially making one network cable into multiple ports.

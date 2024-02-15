@@ -1,0 +1,1 @@
+The OSI (Open Systems Interconnection) model is like a rulebook for computer networks. It sets the rules for how devices in a network, like computers and routers, should talk to each other. One great things about this model is it allows devices with different jobs and designs to communicate effectively. It's a bit like everyone in a group understanding the same language.

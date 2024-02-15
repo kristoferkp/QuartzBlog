@@ -1,0 +1,3 @@
+Just like in Windows, Linux is designed for many users. Some users are like administrators with lots of power, called [[superuser]]s, while most are regular users. Interestingly, not every user is a human - some are created by programs for added safety.
+
+Then there's [[group]]s. Think of groups as teams. Instead of giving permissions to each person, you can give it to a whole team. This way, if everyone on a team needs to access a certain file, you just give the team (or group) permission, not each person.

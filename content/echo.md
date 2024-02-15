@@ -1,0 +1,1 @@
+Displays what the user inputs behind the command.

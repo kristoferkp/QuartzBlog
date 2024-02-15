@@ -1,0 +1,1 @@
+Basically a hole through the [[Firewall]], may it be a machine or router. A way to expose services to the network.
